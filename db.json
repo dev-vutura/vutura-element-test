@@ -24,11 +24,19 @@
                 "type" : "image"
             },
             {
+                "text" : "Ini gambar",
+                "type" : "text"
+            }
+        ]
+    },
+     "image_from_url" : {
+        "chats": [
+            {
                 "image_url" : "{{chart_url}}",
                 "type" : "image"
             },
             {
-                "text" : "HEHEHEHE",
+                "text" : "Ini gambar dari url",
                 "type" : "text"
             }
         ]
