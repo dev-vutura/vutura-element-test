@@ -11,7 +11,10 @@
             },
             {
                 "variable" : {
-                    "company" : "Vutura"
+                    "score" : "1",
+                    "anakDone" : "true",
+                    "ibuDone": "true",
+                    "test_variable": "success"
                 },
                 "type" : "variable"
             }
@@ -61,18 +64,6 @@
             }
         ]
     },
-    "variable" : {
-        "chats": [
-            {
-                "variable" : {
-                    "score" : "1",
-                    "anakDone" : "true",
-                    "ibuDone": "true"
-                },
-                "type" : "variable"
-            }
-        ]
-    },    
     "data" : {
         "key": "val",
         "arr": [
