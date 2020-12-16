@@ -61,6 +61,18 @@
             }
         ]
     },
+    "variable" : {
+        "chats": [
+            {
+                "variable" : {
+                    "score" : 1,
+                    "anakDone" : "true",
+                    "ibuDone": true,
+                },
+                "type" : "variable"
+            }
+        ]
+    },    
     "data" : {
         "key": "val",
         "arr": [
