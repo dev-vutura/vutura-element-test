@@ -67,7 +67,7 @@
                 "variable" : {
                     "score" : "1",
                     "anakDone" : "true",
-                    "ibuDone": "true",
+                    "ibuDone": "true"
                 },
                 "type" : "variable"
             }
